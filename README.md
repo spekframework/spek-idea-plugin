@@ -1,0 +1,1 @@
+# spek-idea-plugin
